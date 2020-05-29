@@ -1,0 +1,74 @@
+*{
+    box-sizing: border-box;
+}
+
+.skills{
+    background: #333;
+    height: 120vh;
+}
+
+.skills h2{
+    width: 400px;
+    margin: 0 auto;
+    border-bottom: 1px solid whitesmoke;
+}
+
+.card-title{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 60px;
+    font-weight: 700;
+}
+
+.card-content > h1{
+
+}
+
+
+
+.cards{
+    display: grid;
+    grid-template-columns: 24% 24% 24% 24%;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.card-content{
+  margin-bottom: 20px;
+    padding: 30px; 
+    transition: 0.5s;
+  border-radius: 20px;
+}
+
+.card-content:hover{
+    transition: 0.9s;
+    box-shadow: 4px 7px 30px rgba(0, 0, 0, 0.555);
+    margin-top: 10px;
+}
+
+@media only screen and (max-width:600px){
+    .skills{
+
+        height: 160vh;
+    }
+    .card-title{
+        font-size: 30px;
+    }
+
+    .cards{
+        grid-template-columns: 50% 50%;
+    }
+
+    .card-content{
+        margin-bottom: 20px;
+        padding: 12px; 
+        transition: 0.5s;
+        border-radius: 20px;
+    }
+    .card-content > h1{
+        font-size: 5px;
+        padding: -15px;
+        font-weight: 400;
+        margin-top: 0;
+    }
+}

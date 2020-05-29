@@ -1,0 +1,55 @@
+
+.landing{
+    background-image: url('../../images/it-background.jpeg');
+    background-position: center;
+    background-size: cover;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.landing h1{
+    color:rgba(0, 0, 0, 0.76);
+    text-shadow: 10px 10px 10px rgba(0, 0, 0, 0.507);
+    font-size: 100px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.671);
+    padding: 10px;
+    border-radius: 10px;
+
+    background: #ddd;
+    margin-bottom: 10px;
+}
+
+.landing h3{
+    color:rgba(0, 0, 0, 0.561);
+    text-shadow: 10px 10px 10px rgba(0, 0, 0, 0.507);
+    font-size: 30px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.671);
+    padding: 10px;
+    border-radius: 10px;
+    width: 500px;
+    background: #ddd;
+    margin-bottom: 10px;
+}
+
+@media only screen and (max-width:600px){
+    .landing h1{
+        font-size: 30px;
+        font-weight: 700;
+        padding: 10px;
+    }
+
+    .landing h3{
+        font-size: 15px;
+        width: 350px;
+    }
+
+    .landing a{
+        font-size: 10px;
+
+    }
+
+    
+}

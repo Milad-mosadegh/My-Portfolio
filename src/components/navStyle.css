@@ -1,0 +1,86 @@
+.logo{
+    background: rgb(136, 18, 18);
+    padding: 30px;
+}
+.logo a{
+    text-decoration: none;
+    font-size: 30px;
+    padding: 20px;
+    font-family: 'Pacifico', cursive;
+}
+.logo span{
+    font-family: 'Pacifico', cursive;
+    margin-top: 40px;
+    background: white;
+    padding: 10px;
+    color: black;
+    transition: 0.4s;
+}
+
+.logo a:hover{
+    color: black;
+    background: whitesmoke;
+    transition: 0.4s;
+}
+
+.logo span:hover{
+    color: whitesmoke;
+    background: rgb(136, 18, 18);
+    transition: 0.4s;
+}
+
+.links{
+    color: rgb(189, 188, 188);
+    font-size: 20px;
+    margin-left: 10px;
+    text-transform: uppercase;
+}
+
+.links:hover{
+    text-decoration: none;
+    color: white;
+}
+
+a{
+    color: rgb(112, 112, 112);
+    font-size: 25px;
+    text-decoration: none;
+    transition:0.3s;
+}
+
+a:hover{
+    transition: 0.3s;
+    color: white;
+    /* border-bottom: 3px solid rgb(134, 134, 134); */
+}
+
+.drop-link span{
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+.drop-link:hover{
+    color: whitesmoke;
+    background: red;
+    text-transform: uppercase;
+}
+
+
+@media only screen and (max-width:420px){
+    .logo{
+        padding: 20px;
+    }
+    .logo a{
+        text-decoration: none;
+        font-size: 20px;
+        padding: 15px;
+    }
+    .logo span{
+        padding: 5px;
+    }
+
+   
+
+
+
+}
