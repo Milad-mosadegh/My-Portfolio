@@ -23,7 +23,7 @@ function App() {
   return (
     <div className="light-dark-bg">
       <Router>
-        {/* <MyNavbar /> */}
+        <Home />
         <Switch>
           <Route path="/" exact component={LandinPage} />
           <Route path="/home" component={Home} />
