@@ -21,7 +21,7 @@ import Footer from './components/footer/Footer';
 
 function App() {
   return (
-    <div>
+    <div className="light-dark-bg">
       <Router>
         {/* <MyNavbar /> */}
         <Switch>

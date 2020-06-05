@@ -2,7 +2,7 @@ import React from 'react'
 import MyNavbar from '../myNavbar'
 
 import pic1 from '../../images/pic1.JPG'
-import pic2 from '../../images/banner.jpg'
+import pic2 from '../../images/milad-1.JPG'
 import Zoom from 'react-reveal/Zoom'
 
 import './homeStyle.css'
@@ -12,7 +12,7 @@ function Home() {
             <MyNavbar />
             <Zoom>
 
-                <div className="home ">
+                <div className="home vh-100">
                     <div className="myContainer">
                         <div className="card">
                             <div className="face face1">

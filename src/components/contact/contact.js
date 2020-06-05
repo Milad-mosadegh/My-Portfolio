@@ -7,7 +7,7 @@ import './contactStyle.css'
 
 function Contact() {
     return (
-        <div className="contact ">
+        <div className="contact vh-100">
             <MyNavbar />
 
             <div className=" vasat">
@@ -51,9 +51,11 @@ function Contact() {
                             </div>
                         </div>
                     </Zoom>
-                    <div className="band-2">
-                        <div className="band-3">Thanks For Your Attention</div>
-                    </div>
+                    <Zoom>
+                        <div className="band-2">
+                            <div className="band-3">Thanks For Your Attention</div>
+                        </div>
+                    </Zoom>
                 </div>
             </div>
         </div>

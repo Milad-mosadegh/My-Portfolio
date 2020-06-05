@@ -1,10 +1,8 @@
 .certificate{
-    background: #333;
     height: 100vh;
 }
 
 .certificate-content{
-    height: 85%;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
@@ -14,12 +12,13 @@
 .certificate-card{
     display: flex;
     flex-direction: column;
-    width: 400px;
+    width: 350px;
     text-align: center;
     padding: 30px;
     border-radius: 20px;
     box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.548);
     transition: 0.5s;
+    margin-top: 40px;
 }
 
 .certificate-card:hover{
@@ -29,7 +28,7 @@
 }
 
 .certificate-card h1{
-    font-size: 50px;
+    font-size: 30px;
     color: whitesmoke;
     border-bottom:2px solid #555;
     border-right:2px solid #555;
@@ -37,13 +36,13 @@
 
 .certificate-card img{
     width: 100%;
-    height: 400px;
+    height: 350px;
 
 }
 
 .certificate-card svg
 {
-    font-size: 60px;
+    font-size: 50px;
     margin-top: -60px;
     margin-left: -40px;
     color: goldenrod;
@@ -60,7 +59,11 @@
     border-color: rgb(136, 18, 18);
 }
 
-@media only screen and (max-width:600px){
+@media only screen and (max-width:480px){
+    .certificate{
+        height: 200vh;
+    }
+   
     .certificate-card{
         width: 70%;
         margin-top: 50px;

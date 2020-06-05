@@ -1,7 +1,6 @@
 .home-wrap{
    padding: 0;
     margin: 0;
-    height: 100vh;
     box-sizing: border-box;
 }
 
@@ -23,7 +22,7 @@
     position: relative;
     background: #333;
     border: none;
-    margin: 100px auto;
+    margin: 60px auto;
 }
 
 
@@ -67,7 +66,7 @@
  
     height: 100%;
    background: rgb(136, 18, 18);
-   padding: 140px  0px  ;
+   padding: 220px  0px  ;
    transition: 0.5s;
 }
 
@@ -110,19 +109,39 @@
 
 /* -==================================== */
 
-@media only screen and (max-width:600px){
-   .myContainer .card .face{
-        width: 350px;
+@media only screen and (max-width:480px){
+
+    .myContainer .card {
+        margin-top:0px;
     }
+    
+    .myContainer .card .face{
+        width: 350px;
+        display: flex;
+        flex-direction: column;
+    }
+    .face.face1 .content img{
+            width: 100%;
+        }
 
     .myContainer .card .face.face1{
-        transform: translateY(140px);
+        transform: translateY(10px);
+    }
+
+     .myContainer .card .face.face1 .content{
+        width: 350px;
     }
 
     .myContainer .card:hover .face.face1 .red-box{
         height: 30%;
+        width: 100%;
         padding: 22px  0px  ;
+        text-align: center;
     }
+
+    .myContainer .card .face.face1 .red-box h1{
+       transform: rotate(0);
+}
 
     .myContainer .card .face.face2 .content h2{
         margin: 10px 0 0 ;
