@@ -23,7 +23,6 @@ function App() {
   return (
     <div className="light-dark-bg">
       <Router>
-        <Home />
         <Switch>
           <Route path="/" exact component={LandinPage} />
           <Route path="/home" component={Home} />
@@ -31,6 +30,7 @@ function App() {
           <Route path="/certificate" component={Certificate} />
           <Route path="/contact" component={Contact} />
         </Switch>
+        <Home />
         <Footer />
       </Router>
     </div>
