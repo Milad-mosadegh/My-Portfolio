@@ -15,7 +15,6 @@ import LandinPage from './components/landingPage/landinPage';
 
 import Contact from './components/contact/contact';
 import Certificate from './components/Certificate/Certificate';
-import Footer from './components/footer/Footer';
 
 
 
@@ -30,8 +29,6 @@ function App() {
           <Route path="/certificate" component={Certificate} />
           <Route path="/contact" component={Contact} />
         </Switch>
-        <Home />
-        <Footer />
       </Router>
     </div>
   );

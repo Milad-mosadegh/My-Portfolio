@@ -4,6 +4,7 @@ import MyNavbar from '../myNavbar'
 import Zoom from 'react-reveal/Zoom'
 
 import './contactStyle.css'
+import Footer from '../footer/Footer'
 
 function Contact() {
     return (
@@ -58,6 +59,7 @@ function Contact() {
                     </Zoom>
                 </div>
             </div>
+            <Footer />
         </div>
     )
 }

@@ -14,6 +14,7 @@ import telc from '../../images/telc.png'
 import dci from '../../images/dci.png'
 
 import './style.css'
+import Footer from '../footer/Footer'
 
 
 function Certificate() {
@@ -104,7 +105,7 @@ function Certificate() {
                 </div>
             </Fade>
 
-
+            <Footer />
         </div>
     )
 }

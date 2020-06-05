@@ -5,6 +5,7 @@ import './cardStyle.css'
 import MyNavbar from '../myNavbar'
 import Cards from './cards'
 import Language from './language'
+import Footer from '../footer/Footer'
 
 function Skill(props) {
     let info = [
@@ -40,7 +41,7 @@ function Skill(props) {
                     <Language language={language} />
                 </div>
             </div>
-
+            <Footer />
         </div>
     )
 }

@@ -6,6 +6,7 @@ import pic2 from '../../images/milad-1.JPG'
 import Zoom from 'react-reveal/Zoom'
 
 import './homeStyle.css'
+import Footer from '../footer/Footer'
 function Home() {
     return (
         <div className="home-wrap light-dark-bg">
@@ -47,6 +48,7 @@ function Home() {
                     </div>
                 </div>
             </Zoom>
+            <Footer />
         </div>
     )
 }
