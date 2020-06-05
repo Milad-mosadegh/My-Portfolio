@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio/static/css/main.b17ca7b5.chunk.css",
+    "main.js": "/My-Portfolio/static/js/main.7f18f5a7.chunk.js",
+    "main.js.map": "/My-Portfolio/static/js/main.7f18f5a7.chunk.js.map",
+    "runtime-main.js": "/My-Portfolio/static/js/runtime-main.82805dd7.js",
+    "runtime-main.js.map": "/My-Portfolio/static/js/runtime-main.82805dd7.js.map",
+    "static/css/2.b7f16634.chunk.css": "/My-Portfolio/static/css/2.b7f16634.chunk.css",
+    "static/js/2.660b6caf.chunk.js": "/My-Portfolio/static/js/2.660b6caf.chunk.js",
+    "static/js/2.660b6caf.chunk.js.map": "/My-Portfolio/static/js/2.660b6caf.chunk.js.map",
+    "index.html": "/My-Portfolio/index.html",
+    "precache-manifest.be364af25ce77e6d13ca47ef5411eaa9.js": "/My-Portfolio/precache-manifest.be364af25ce77e6d13ca47ef5411eaa9.js",
+    "service-worker.js": "/My-Portfolio/service-worker.js",
+    "static/css/2.b7f16634.chunk.css.map": "/My-Portfolio/static/css/2.b7f16634.chunk.css.map",
+    "static/css/main.b17ca7b5.chunk.css.map": "/My-Portfolio/static/css/main.b17ca7b5.chunk.css.map",
+    "static/js/2.660b6caf.chunk.js.LICENSE.txt": "/My-Portfolio/static/js/2.660b6caf.chunk.js.LICENSE.txt",
+    "static/media/B1.pdf": "/My-Portfolio/static/media/B1.85e7b714.pdf",
+    "static/media/B2.pdf": "/My-Portfolio/static/media/B2.373f80aa.pdf",
+    "static/media/Lebenslauf.pdf": "/My-Portfolio/static/media/Lebenslauf.c0e7f4ff.pdf",
+    "static/media/contactStyle.css": "/My-Portfolio/static/media/contact-bg-2.e0f5b196.jpg",
+    "static/media/cv-pdf.png": "/My-Portfolio/static/media/cv-pdf.3a688ecf.png",
+    "static/media/font-awesome.css": "/My-Portfolio/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/landingStyle.css": "/My-Portfolio/static/media/it-background.72566c18.jpeg",
+    "static/media/milad-1.JPG": "/My-Portfolio/static/media/milad-1.6da20419.JPG",
+    "static/media/pic1.JPG": "/My-Portfolio/static/media/pic1.0d9c7130.JPG",
+    "static/media/telc.png": "/My-Portfolio/static/media/telc.838b4d7d.png",
+    "static/media/underStructure.pdf": "/My-Portfolio/static/media/underStructure.4e828ba4.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82805dd7.js",
+    "static/css/2.b7f16634.chunk.css",
+    "static/js/2.660b6caf.chunk.js",
+    "static/css/main.b17ca7b5.chunk.css",
+    "static/js/main.7f18f5a7.chunk.js"
+  ]
+}
