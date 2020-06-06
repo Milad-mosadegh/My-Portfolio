@@ -1,7 +1,7 @@
 
 
 .certificate-content{
-    height: 110vh;
+    height: 90vh;
     margin: 0 auto;
     display: flex;
     flex-wrap: wrap;
@@ -60,18 +60,18 @@
 }
 
 @media only screen and (max-width:480px){
-    .certificate{
+    .certificate-content{
         height: 250vh;
     }
    
     .certificate-card{
         width: 70%;
-        margin-top: 50px;
+        margin-top: -10px;
     }
 
     
     .certificate-card:hover{
-        margin-top: 70px;
+        margin-top: 10px;
         box-shadow: 10px 20px 70px rgba(0, 0, 0, 0.548);
         transition: 0.5s;
     }
