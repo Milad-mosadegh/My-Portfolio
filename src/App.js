@@ -5,10 +5,12 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 import './App.css'
 
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Switch,
-  Route
+  Route,
+
 } from "react-router-dom";
+
 import Home from './components/Home/home';
 import Skill from './components/Skills/Skill';
 import LandinPage from './components/landingPage/landinPage';
