@@ -1,7 +1,8 @@
 
 
 .certificate-content{
-    height: 90vh;
+    height: 100vh;
+    margin: 0 auto;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
@@ -60,7 +61,7 @@
 
 @media only screen and (max-width:480px){
     .certificate{
-        height: 210vh;
+        height: 230vh;
     }
    
     .certificate-card{
