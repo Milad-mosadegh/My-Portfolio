@@ -5,6 +5,7 @@ import leben from '../../PDF/Lebenslauf.pdf'
 import b1 from '../../PDF/B1.pdf'
 import b2 from '../../PDF/B2.pdf'
 import under from '../../PDF/underStructure.pdf'
+import DCI from '../../PDF/DCI-Certificate.pdf'
 
 import { Button } from 'react-bootstrap'
 import Fade from 'react-reveal/Fade'
@@ -94,7 +95,7 @@ function Certificate() {
 
                         <Button
                             variant="outline-danger"
-                            href={under}
+                            href={DCI}
                             target="_blank"
                             rel="noopener noreferrer"
                             className="mt-2"
