@@ -3,10 +3,12 @@
 }
 
 .certificate-content{
+    height: 85vh;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
     align-items: center;
+    padding: 30px;
 }
 
 .certificate-card{
@@ -18,13 +20,12 @@
     border-radius: 20px;
     box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.548);
     transition: 0.5s;
-    margin-top: 40px;
 }
 
 .certificate-card:hover{
-    transition: 0.5s;
-    transform: translateY(30px);
+    margin-top: -50px;
     box-shadow: 10px 20px 70px rgba(0, 0, 0, 0.548);
+    transition: 0.5s;
 }
 
 .certificate-card h1{
@@ -67,6 +68,13 @@
     .certificate-card{
         width: 70%;
         margin-top: 50px;
+    }
+
+    
+    .certificate-card:hover{
+        margin-top: 70px;
+        box-shadow: 10px 20px 70px rgba(0, 0, 0, 0.548);
+        transition: 0.5s;
     }
 
     .certificate-card h1{

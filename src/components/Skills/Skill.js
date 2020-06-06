@@ -31,7 +31,7 @@ function Skill(props) {
             <MyNavbar {...props} />
             <div className="container d-flex flex-column">
 
-                <div className="shadow-lg">
+                <div className="shadow-lg" >
                     <h2 className="card-title mb-3">Code Skills</h2>
                     <Cards info={info} />
                 </div>
