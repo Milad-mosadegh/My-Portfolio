@@ -38,9 +38,7 @@ function Home() {
                                             I love Coding, i try to learn more to be one of the best in this field.
                                             I am facing with new World called Code and i wanna go through it till the end
                                     </h5>
-                                        <h5>
-                                            In other side, i am a Musician and Singer.I Worked around 15 years as Music Producer / Music Manager.
-                                        </h5>
+
                                     </div>
                                 </div>
                             </div>

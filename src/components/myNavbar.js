@@ -18,6 +18,7 @@ function MyNavbar() {
                         <Nav.Link><Link className="links" to="/home">Home</Link></Nav.Link>
                         <Nav.Link><Link className="links" to="/skill">Skill</Link></Nav.Link>
                         <Nav.Link><Link className="links" to="/certificate">Certificate</Link></Nav.Link>
+                        <Nav.Link><Link className="links" to="/projects">Projects</Link></Nav.Link>
                         <Nav.Link><Link className="links" to="/contact">Contact</Link></Nav.Link>
                     </Nav>
                     <NavDropdown title="Follow Me" id="basic-nav-dropdown" className="mr-5">

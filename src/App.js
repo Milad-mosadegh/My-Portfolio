@@ -17,6 +17,7 @@ import LandinPage from './components/landingPage/landinPage';
 
 import Contact from './components/contact/contact';
 import Certificate from './components/Certificate/Certificate';
+import Projects from './components/Projects/Projects';
 
 
 
@@ -27,6 +28,7 @@ function App() {
         <Switch>
           <Route path="/" exact component={LandinPage} />
           <Route path="/home" component={Home} />
+          <Route path="/projects" component={Projects} />
           <Route path="/skill" component={Skill} />
           <Route path="/certificate" component={Certificate} />
           <Route path="/contact" component={Contact} />
