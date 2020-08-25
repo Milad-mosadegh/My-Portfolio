@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/My-Portfolio/static/css/main.37818aca.chunk.css",
-    "main.js": "/My-Portfolio/static/js/main.6ae88555.chunk.js",
-    "main.js.map": "/My-Portfolio/static/js/main.6ae88555.chunk.js.map",
+    "main.js": "/My-Portfolio/static/js/main.0b5d9f58.chunk.js",
+    "main.js.map": "/My-Portfolio/static/js/main.0b5d9f58.chunk.js.map",
     "runtime-main.js": "/My-Portfolio/static/js/runtime-main.82805dd7.js",
     "runtime-main.js.map": "/My-Portfolio/static/js/runtime-main.82805dd7.js.map",
     "static/css/2.b7f16634.chunk.css": "/My-Portfolio/static/css/2.b7f16634.chunk.css",
-    "static/js/2.f5989862.chunk.js": "/My-Portfolio/static/js/2.f5989862.chunk.js",
-    "static/js/2.f5989862.chunk.js.map": "/My-Portfolio/static/js/2.f5989862.chunk.js.map",
+    "static/js/2.2beef007.chunk.js": "/My-Portfolio/static/js/2.2beef007.chunk.js",
+    "static/js/2.2beef007.chunk.js.map": "/My-Portfolio/static/js/2.2beef007.chunk.js.map",
     "index.html": "/My-Portfolio/index.html",
-    "precache-manifest.0d9bdb4e93007713476564dd15ef4497.js": "/My-Portfolio/precache-manifest.0d9bdb4e93007713476564dd15ef4497.js",
+    "precache-manifest.5590ec0b985f3e4df87a56c77ce96f7e.js": "/My-Portfolio/precache-manifest.5590ec0b985f3e4df87a56c77ce96f7e.js",
     "service-worker.js": "/My-Portfolio/service-worker.js",
     "static/css/2.b7f16634.chunk.css.map": "/My-Portfolio/static/css/2.b7f16634.chunk.css.map",
     "static/css/main.37818aca.chunk.css.map": "/My-Portfolio/static/css/main.37818aca.chunk.css.map",
-    "static/js/2.f5989862.chunk.js.LICENSE.txt": "/My-Portfolio/static/js/2.f5989862.chunk.js.LICENSE.txt",
+    "static/js/2.2beef007.chunk.js.LICENSE.txt": "/My-Portfolio/static/js/2.2beef007.chunk.js.LICENSE.txt",
     "static/media/2.png": "/My-Portfolio/static/media/2.d9ab65e8.png",
     "static/media/B2.pdf": "/My-Portfolio/static/media/B2.373f80aa.pdf",
     "static/media/DCI-Certificate.pdf": "/My-Portfolio/static/media/DCI-Certificate.a7d85e4d.pdf",
@@ -28,13 +28,14 @@
     "static/media/movieFinder.png": "/My-Portfolio/static/media/movieFinder.1099d734.png",
     "static/media/pic1.JPG": "/My-Portfolio/static/media/pic1.0d9c7130.JPG",
     "static/media/praktikum.jpg": "/My-Portfolio/static/media/praktikum.06f757ad.jpg",
-    "static/media/telc.png": "/My-Portfolio/static/media/telc.838b4d7d.png"
+    "static/media/telc.png": "/My-Portfolio/static/media/telc.838b4d7d.png",
+    "static/media/weather.png": "/My-Portfolio/static/media/weather.830c90ff.png"
   },
   "entrypoints": [
     "static/js/runtime-main.82805dd7.js",
     "static/css/2.b7f16634.chunk.css",
-    "static/js/2.f5989862.chunk.js",
+    "static/js/2.2beef007.chunk.js",
     "static/css/main.37818aca.chunk.css",
-    "static/js/main.6ae88555.chunk.js"
+    "static/js/main.0b5d9f58.chunk.js"
   ]
 }
