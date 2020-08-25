@@ -8,6 +8,7 @@ import ProjectTemplate from './projecttemplate'
 import StartMed from '../../images/StartMed.png'
 import movieFinder from '../../images/movieFinder.png'
 import persianToDo from '../../images/2.png'
+import weather from '../../images/weather.png'
 
 function Projects() {
     return (
@@ -41,6 +42,15 @@ function Projects() {
                     owner="Milad Mosadegh"
                     link="https://milad-mosadegh.github.io/Persian-To-Do-App"
                     websiteName="Persian Todo"
+                />
+
+                <ProjectTemplate
+                    image={weather}
+                    title="Weather App"
+                    date="02.2020"
+                    owner="Milad Mosadegh"
+                    link="https://milad-mosadegh.github.io/React-Weather"
+                    websiteName="Weather App"
                 />
 
 
