@@ -23,7 +23,7 @@ function Projects() {
                     owner="Pouria Sabetian"
                     link="https://startmed-germany.de/"
                     websiteName="StartMed"
-
+                    className="col"
                 />
 
                 <ProjectTemplate
