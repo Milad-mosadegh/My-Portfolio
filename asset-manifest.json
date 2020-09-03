@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/My-Portfolio/static/css/main.7005b65b.chunk.css",
-    "main.js": "/My-Portfolio/static/js/main.c565c854.chunk.js",
-    "main.js.map": "/My-Portfolio/static/js/main.c565c854.chunk.js.map",
+    "main.js": "/My-Portfolio/static/js/main.1507b8b7.chunk.js",
+    "main.js.map": "/My-Portfolio/static/js/main.1507b8b7.chunk.js.map",
     "runtime-main.js": "/My-Portfolio/static/js/runtime-main.82805dd7.js",
     "runtime-main.js.map": "/My-Portfolio/static/js/runtime-main.82805dd7.js.map",
     "static/css/2.f485a687.chunk.css": "/My-Portfolio/static/css/2.f485a687.chunk.css",
     "static/js/2.2beef007.chunk.js": "/My-Portfolio/static/js/2.2beef007.chunk.js",
     "static/js/2.2beef007.chunk.js.map": "/My-Portfolio/static/js/2.2beef007.chunk.js.map",
     "index.html": "/My-Portfolio/index.html",
-    "precache-manifest.cf693c244f3bf3f4bbc6fd577b5aa3e8.js": "/My-Portfolio/precache-manifest.cf693c244f3bf3f4bbc6fd577b5aa3e8.js",
+    "precache-manifest.e8a3185c8c39168d2e611a54e4d599f3.js": "/My-Portfolio/precache-manifest.e8a3185c8c39168d2e611a54e4d599f3.js",
     "service-worker.js": "/My-Portfolio/service-worker.js",
     "static/css/2.f485a687.chunk.css.map": "/My-Portfolio/static/css/2.f485a687.chunk.css.map",
     "static/css/main.7005b65b.chunk.css.map": "/My-Portfolio/static/css/main.7005b65b.chunk.css.map",
@@ -17,7 +17,7 @@
     "static/media/2.png": "/My-Portfolio/static/media/2.d9ab65e8.png",
     "static/media/B2.pdf": "/My-Portfolio/static/media/B2.373f80aa.pdf",
     "static/media/DCI-Certificate.pdf": "/My-Portfolio/static/media/DCI-Certificate.a7d85e4d.pdf",
-    "static/media/Lebenslauf.pdf": "/My-Portfolio/static/media/Lebenslauf.bf2a2bf2.pdf",
+    "static/media/Lebenslauf-Blue.pdf": "/My-Portfolio/static/media/Lebenslauf-Blue.bf2a2bf2.pdf",
     "static/media/Praktikumsbescheinigung.pdf": "/My-Portfolio/static/media/Praktikumsbescheinigung.31e1d60c.pdf",
     "static/media/StartMed.png": "/My-Portfolio/static/media/StartMed.83932e4c.png",
     "static/media/contactStyle.css": "/My-Portfolio/static/media/contact-bg-2.e0f5b196.jpg",
@@ -36,6 +36,6 @@
     "static/css/2.f485a687.chunk.css",
     "static/js/2.2beef007.chunk.js",
     "static/css/main.7005b65b.chunk.css",
-    "static/js/main.c565c854.chunk.js"
+    "static/js/main.1507b8b7.chunk.js"
   ]
 }

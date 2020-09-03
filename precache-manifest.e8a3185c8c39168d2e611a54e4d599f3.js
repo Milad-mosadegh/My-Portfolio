@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9aaddcda6a79e942162209324a030c80",
+    "revision": "5173b57d0fb55434338f6400e987aae9",
     "url": "/My-Portfolio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/My-Portfolio/static/css/2.f485a687.chunk.css"
   },
   {
-    "revision": "ea5acf758795fde781e4",
+    "revision": "119f9c465690ce3e0508",
     "url": "/My-Portfolio/static/css/main.7005b65b.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/My-Portfolio/static/js/2.2beef007.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ea5acf758795fde781e4",
-    "url": "/My-Portfolio/static/js/main.c565c854.chunk.js"
+    "revision": "119f9c465690ce3e0508",
+    "url": "/My-Portfolio/static/js/main.1507b8b7.chunk.js"
   },
   {
     "revision": "8aba1767fb34ef398da8",
@@ -41,7 +41,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "bf2a2bf28037d9c3174e0c2fb52dac05",
-    "url": "/My-Portfolio/static/media/Lebenslauf.bf2a2bf2.pdf"
+    "url": "/My-Portfolio/static/media/Lebenslauf-Blue.bf2a2bf2.pdf"
   },
   {
     "revision": "31e1d60c8d4c9cfab462aab46e2f3e44",
