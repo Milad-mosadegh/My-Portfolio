@@ -1,7 +1,7 @@
 import React from 'react'
 import MyNavbar from '../myNavbar'
 
-import leben from '../../PDF/Lebenslauf.pdf'
+import leben from '../../PDF/Lebenslauf-Blue.pdf'
 import b1 from '../../PDF/Praktikumsbescheinigung.pdf'
 import b2 from '../../PDF/B2.pdf'
 
