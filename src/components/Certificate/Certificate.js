@@ -1,7 +1,7 @@
 import React from 'react'
 import MyNavbar from '../myNavbar'
 
-import leben from '../../PDF/Lebenslauf-Blue.pdf'
+import leben from '../../PDF/Milad-Mosadegh-CV.pdf'
 import b1 from '../../PDF/Praktikumsbescheinigung.pdf'
 import b2 from '../../PDF/B2.pdf'
 
@@ -10,7 +10,7 @@ import DCI from '../../PDF/DCI-Certificate.pdf'
 import { Button } from 'react-bootstrap'
 import Fade from 'react-reveal/Fade'
 
-import cv1 from '../../images/cv-pdf.png'
+import cv1 from '../../images/cv-pic.jpeg'
 import telc from '../../images/telc.png'
 import dci from '../../images/dci.png'
 import praktikum from '../../images/praktikum.jpg'
