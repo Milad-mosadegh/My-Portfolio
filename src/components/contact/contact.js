@@ -8,13 +8,14 @@ import Footer from '../footer/Footer'
 
 function Contact() {
     return (
-        <div className="contact vh-100">
+        <div className="contact">
             <MyNavbar />
 
             <div className=" vasat">
                 <div className="band">
 
                     <Zoom cascade left>
+
                         <div className="contact-form">
                             <div className="contact-info">
                                 <h3>
