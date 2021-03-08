@@ -4,6 +4,7 @@
 
 .skills{
     background: #333;
+    height: auto;
 }
 
 .skills h2{
@@ -25,7 +26,7 @@
 
 .cards{
     display: grid;
-    grid-template-columns: 24% 24% 24% 24%;
+    grid-template-columns: repeat(4,1fr);
     justify-content: space-between;
     width: 100%;
 }
@@ -43,7 +44,7 @@
     margin-top: 10px;
 }
 
-@media only screen and (max-width:600px){
+@media only screen and (max-width:411px){
   
     .card-title{
         font-size: 30px;
@@ -64,5 +65,30 @@
         padding: -15px;
         font-weight: 400;
         margin-top: 0;
+    }
+}
+
+@media(min-width:412px) and (max-width:768px){
+  
+    .cards{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        justify-content: space-between;
+        width: 100%;
+    }
+}
+
+
+@media(min-width:769px) and (max-width:1024px){
+  
+    .cards{
+        display: grid;
+        grid-template-columns: repeat(4,1fr);
+        justify-content: space-between;
+        width: 100%;
+    }
+
+    .skills{
+        height: 100vh;
     }
 }

@@ -11,18 +11,18 @@ function Skill(props) {
     let info = [
         { text: `HTML`, value: 90, per: "90%" },
         { text: `CSS/SCSS`, value: 90, per: "90%" },
-        { text: `JavaScript`, value: 60, per: "60%" },
-        { text: `Reactjs`, value: 70, per: "70%" },
+        { text: `JavaScript`, value: 80, per: "80%" },
+        { text: `Reactjs`, value: 80, per: "80%" },
         { text: 'Bootstrap', value: 90, per: "90%" },
-        { text: 'Express JS', value: 50, per: "50%" },
-        { text: 'Mongo DB', value: 50, per: "50%" },
-        { text: 'Node JS', value: 40, per: "40%" },
+        { text: 'Express JS', value: 80, per: "80%" },
+        { text: 'Mongo DB', value: 80, per: "80%" },
+        { text: 'Node JS', value: 80, per: "80%" },
     ]
 
     let language = [
         { text: `Farsi`, value: 100, per: "100%" },
         { text: `English`, value: 80, per: "80%" },
-        { text: `German`, value: 60, per: "60%" },
+        { text: `German`, value: 80, per: "80%" },
         { text: `Turkish`, value: 30, per: "30%" },
     ]
 
