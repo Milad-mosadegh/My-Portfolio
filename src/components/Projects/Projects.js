@@ -1,7 +1,7 @@
 import React from 'react'
 import MyNavbar from '../myNavbar'
 
-
+import './project.css'
 import Footer from '../footer/Footer'
 import ProjectTemplate from './projecttemplate'
 
@@ -12,8 +12,9 @@ import weather from '../../images/weather.png'
 
 function Projects() {
     return (
-        <div >
+        <div className="p-wrap">
             <MyNavbar />
+
             <div className="project-container p-2">
 
                 <ProjectTemplate

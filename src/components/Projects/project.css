@@ -1,0 +1,94 @@
+.p-wrap{
+    height: 100vh;
+}
+
+.p-all-img img{
+    height: 200px;
+}
+
+.project-container{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: auto;
+    gap: 20px;
+}
+
+/*
+ 
+ ███╗   ███╗███████╗██████╗ ██╗ █████╗     ██╗  ██╗ ██╗ ██╗
+ ████╗ ████║██╔════╝██╔══██╗██║██╔══██╗    ██║  ██║███║███║
+ ██╔████╔██║█████╗  ██║  ██║██║███████║    ███████║╚██║╚██║
+ ██║╚██╔╝██║██╔══╝  ██║  ██║██║██╔══██║    ╚════██║ ██║ ██║
+ ██║ ╚═╝ ██║███████╗██████╔╝██║██║  ██║         ██║ ██║ ██║
+ ╚═╝     ╚═╝╚══════╝╚═════╝ ╚═╝╚═╝  ╚═╝         ╚═╝ ╚═╝ ╚═╝
+                                                           
+ 
+*/
+
+@media(max-width:411px){
+    .p-wrap{
+        height: auto;
+    }
+
+      .p-all-img h1{
+        font-size: 30px;
+    }
+
+    .p-all-img h3{
+        font-size: 20px;
+    }
+
+    .project-container{
+        grid-template-columns: 1fr;
+    }
+}
+
+/*
+ 
+ ███╗   ███╗███████╗██████╗ ██╗ █████╗      ██╗ ██████╗ ██████╗ ██╗  ██╗
+ ████╗ ████║██╔════╝██╔══██╗██║██╔══██╗    ███║██╔═████╗╚════██╗██║  ██║
+ ██╔████╔██║█████╗  ██║  ██║██║███████║    ╚██║██║██╔██║ █████╔╝███████║
+ ██║╚██╔╝██║██╔══╝  ██║  ██║██║██╔══██║     ██║████╔╝██║██╔═══╝ ╚════██║
+ ██║ ╚═╝ ██║███████╗██████╔╝██║██║  ██║     ██║╚██████╔╝███████╗     ██║
+ ╚═╝     ╚═╝╚══════╝╚═════╝ ╚═╝╚═╝  ╚═╝     ╚═╝ ╚═════╝ ╚══════╝     ╚═╝
+                                                                        
+ 
+*/
+
+@media(min-width:411px) and (max-width:768px){
+    .p-wrap{
+        height: auto;
+    }
+
+      .p-all-img h1{
+        font-size: 30px;
+    }
+
+    .p-all-img h3{
+        font-size: 20px;
+    }
+
+    .project-container{
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+
+
+@media(min-width:769px) and (max-width:1024px){
+    .p-wrap{
+        height: 100vh;
+    }
+
+      .p-all-img h1{
+        font-size: 30px;
+    }
+
+    .p-all-img h3{
+        font-size: 20px;
+    }
+
+    .project-container{
+        grid-template-columns: 1fr 1fr;
+    }
+}

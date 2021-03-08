@@ -8,7 +8,7 @@ function ProjectTemplate({ image, title, date, owner, link, websiteName }) {
     return (
         <div>
             <div>
-                <div className="shadow-lg p-4">
+                <div className="shadow-lg p-4 p-all-img">
 
                     <div className="mb-3" >
                         <img src={image} width="100%" height="400px" />
