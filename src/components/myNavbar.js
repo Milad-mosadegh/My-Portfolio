@@ -8,7 +8,7 @@ import { Link } from 'react-router-dom'
 function MyNavbar() {
     return (
         <div>
-            <Navbar collapseOnSelect expand="lg" variant="dark" className="dark-bg nav-dis ">
+            <Navbar collapseOnSelect expand="lg" variant="dark" className="nav-dis ">
                 <Navbar.Brand className="logo" >
                     <Link to="/">Milad <span>Mosadegh</span></Link>
                 </Navbar.Brand>

@@ -45,7 +45,7 @@ function Certificate() {
                             rel="noopener noreferrer"
                         >
                             Download
-                </Button>
+                    </Button>
                     </div>
 
 
@@ -66,7 +66,7 @@ function Certificate() {
                             className="mt-2"
                         >
                             Download
-                </Button>
+                    </Button>
                     </div>
 
                     <div className="certificate-card ">
