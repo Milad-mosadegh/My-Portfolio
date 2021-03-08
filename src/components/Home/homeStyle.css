@@ -116,7 +116,7 @@
 @media only screen and (max-width:480px){
 
     .myContainer .card .face.face1 .content img{
-        width: 90%;
+        width: 100%;
         height: 190px;
     }
 
@@ -126,7 +126,7 @@
     }
     
     .myContainer .card .face{
-        width: 350px;
+        width: 100%;
         display: flex;
         flex-direction: column;
     }
@@ -137,7 +137,7 @@
     }
 
      .myContainer .card .face.face1 .content{
-        width: 350px;
+        width: 100%;
     }
 
     .myContainer .card:hover .face.face1 .red-box{

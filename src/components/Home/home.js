@@ -28,10 +28,10 @@ function Home() {
                                 <div className="content ">
                                     <div>
                                         <h2>Who Am I?</h2>
-                                        <h5>My Name is Milad Mosadegh. I am 31 Years old, come from Iran and since 2017 live in Germany. I am Frontend Web Developer, graduated by DCI ( digital-career-institute )</h5>
+                                        <h5>My Name is Milad Mosadegh. I am 32 Years old, come from Iran and since 2017 live in Germany. I am Frontend Web Developer, graduated by DCI ( digital-career-institute )</h5>
 
                                         <h5>
-                                            I started coding since 2019 and in this time i learned so many things like JavaScript, Reactjs and ... and i've got much Experiences.
+                                            I started coding since 2018 and in this time i learned so many things like JavaScript, Reactjs and ... and i've got much Experiences.
                                         </h5>
 
                                         <h5>
