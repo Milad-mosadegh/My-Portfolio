@@ -9,6 +9,7 @@ import StartMed from '../../images/StartMed.png'
 import movieFinder from '../../images/movieFinder.png'
 import persianToDo from '../../images/2.png'
 import weather from '../../images/weather.png'
+import ctoc from '../../images/ctoc.png'
 
 function Projects() {
     return (
@@ -18,13 +19,22 @@ function Projects() {
             <div className="project-container p-2">
 
                 <ProjectTemplate
+                    image={ctoc}
+                    title="Online Shop"
+                    date="10.2020"
+                    owner="Milad Mosadegh"
+                    link="https://vigorous-einstein-134bd7.netlify.app/#/"
+                    websiteName="CtoC"
+
+                />
+
+                <ProjectTemplate
                     image={StartMed}
                     title="StartMed"
                     date="08.2020"
                     owner="Pouria Sabetian"
                     link="https://startmed-germany.de/"
                     websiteName="StartMed"
-                    className="col"
                 />
 
                 <ProjectTemplate
