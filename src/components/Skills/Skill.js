@@ -14,9 +14,17 @@ function Skill(props) {
         { text: `JavaScript`, value: 80, per: "80%" },
         { text: `Reactjs`, value: 80, per: "80%" },
         { text: 'Bootstrap', value: 90, per: "90%" },
-        { text: 'Express JS', value: 80, per: "80%" },
+        { text: 'Express JS', value: 90, per: "80%" },
         { text: 'Mongo DB', value: 80, per: "80%" },
         { text: 'Node JS', value: 80, per: "80%" },
+        { text: 'Vue JS', value: 60, per: "60%" },
+        { text: 'TypeScript', value: 60, per: "60%" },
+        { text: 'TypeScript', value: 60, per: "60%" },
+        { text: 'MySQL', value: 80, per: "80%" },
+        { text: 'Heroku', value: 70, per: "70%" },
+        { text: 'Netlify', value: 70, per: "70%" },
+        { text: 'Ubuntu Linux', value: 70, per: "70%" },
+        { text: 'Git/Github', value: 90, per: "90%" },
     ]
 
     let language = [

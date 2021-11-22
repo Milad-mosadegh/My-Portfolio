@@ -28,7 +28,7 @@ function Home() {
                                 <div className="content ">
                                     <div>
                                         <h2>Who Am I?</h2>
-                                        <h5>My Name is Milad Mosadegh. I am 32 Years old, come from Iran and since 2017 live in Germany. I am Frontend Web Developer, graduated by DCI ( digital-career-institute )</h5>
+                                        <h5>My Name is Milad Mosadegh. I am 33 Years old, come from Iran and since 2017 live in Germany. I am Full-Stack (Software Engineer) Developer, graduated by DCI ( digital-career-institute )</h5>
 
                                         <h5>
                                             I started coding since 2018 and in this time i learned so many things like JavaScript, Reactjs and ... and i've got much Experiences.
@@ -37,7 +37,7 @@ function Home() {
                                         <h5>
                                             I love Coding, i try to learn more to be one of the best in this field.
                                             I am facing with new World called Code and i wanna go through it till the end
-                                    </h5>
+                                        </h5>
 
                                     </div>
                                 </div>
