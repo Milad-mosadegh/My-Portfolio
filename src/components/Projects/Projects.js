@@ -10,6 +10,8 @@ import movieFinder from '../../images/movieFinder.png'
 import persianToDo from '../../images/2.png'
 import weather from '../../images/weather.png'
 import ctoc from '../../images/ctoc.png'
+import githubFinder from '../../images/github.png'
+import ageConvertor from '../../images/ageConvertor.png'
 
 function Projects() {
     return (
@@ -17,7 +19,14 @@ function Projects() {
             <MyNavbar />
 
             <div className="project-container p-2">
-
+                <ProjectTemplate
+                    image={githubFinder}
+                    title="Github Finder"
+                    date="05.2021"
+                    owner="Milad Mosadegh"
+                    link="https://milad-mosadegh.github.io/Find-Github-User/"
+                    websiteName="Github Finder"
+                />
                 <ProjectTemplate
                     image={ctoc}
                     title="Online Shop"
@@ -25,7 +34,14 @@ function Projects() {
                     owner="Milad Mosadegh"
                     link="https://vigorous-einstein-134bd7.netlify.app/#/"
                     websiteName="CtoC"
-
+                />
+                <ProjectTemplate
+                    image={ageConvertor}
+                    title="Age Convertor"
+                    date="05.2020"
+                    owner="Milad Mosadegh"
+                    link="https://milad-mosadegh.github.io/AgeConvertor/"
+                    websiteName="Age Convertor"
                 />
 
                 <ProjectTemplate
