@@ -2,6 +2,10 @@
     box-sizing: border-box;
 }
 
+body{
+        background: #333;
+}
+
 .skills{
     background: #333;
     height: auto;
